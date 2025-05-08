@@ -1,0 +1,9 @@
+section{
+  padding: 60px 0;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1); /* turns white arrow to black */
+}
+
